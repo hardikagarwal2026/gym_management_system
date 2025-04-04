@@ -1,2 +1,0 @@
-# gym_management_system
-Built Gym Management System Using Python. It is a comprehensive solution designed to streamline gym operations. It encompasses functionalities for managing members, handling dietary plans, and providing a user-friendly interface. By leveraging database operations and UI management, the system aims to simplify tasks such as member registration, plan generation, and data retrieval, ultimately enhancing the efficiency of gym management processes.
