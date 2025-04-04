@@ -27,19 +27,13 @@ The app uses Tkinter to provide an intuitive layout with labels, entry fields, a
 
 ---
 
-## 🎥 Preview
-
-> _Add screenshots or GIFs of your GUI here to show how the system looks in action._
-
----
-
 ## 📁 Project Structure
 
 ```
 gym_management_system/
 │
 ├── gym_managemt_system.py      # Main application logic with GUI
-├── README.md                   # This file
+├── README.md                   
 └── members.json                # Auto-generated file to store gym member data
 ```
 
@@ -59,7 +53,7 @@ gym_management_system/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/gym_management_system.git
+git clone https://github.com/hardikagarwal2026/gym_management_system.git
 cd gym_management_system
 ```
 
@@ -140,8 +134,4 @@ If you'd like to contribute:
 4. Push to the branch (`git push origin feature-xyz`)
 5. Open a pull request
 
----
 
-## 📝 License
-
-This project is licensed under the **MIT License** – feel free to use and modify it.
